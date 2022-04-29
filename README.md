@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JulianThomas
 - 👀 I’m interested in building creating designs and ideas that intrigue me
 - 🌱 I’m currently learning UX design theories and applying them
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 JulianThomas/JulianThomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
